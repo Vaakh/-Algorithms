@@ -1,0 +1,11 @@
+F:\Repos\GitHub\-Algorithms\Algorithms\Algorithms\bin\Debug\netcoreapp2.1\Algorithms.deps.json
+F:\Repos\GitHub\-Algorithms\Algorithms\Algorithms\bin\Debug\netcoreapp2.1\Algorithms.runtimeconfig.json
+F:\Repos\GitHub\-Algorithms\Algorithms\Algorithms\bin\Debug\netcoreapp2.1\Algorithms.runtimeconfig.dev.json
+F:\Repos\GitHub\-Algorithms\Algorithms\Algorithms\bin\Debug\netcoreapp2.1\Algorithms.dll
+F:\Repos\GitHub\-Algorithms\Algorithms\Algorithms\bin\Debug\netcoreapp2.1\Algorithms.pdb
+F:\Repos\GitHub\-Algorithms\Algorithms\Algorithms\obj\Debug\netcoreapp2.1\Algorithms.csprojAssemblyReference.cache
+F:\Repos\GitHub\-Algorithms\Algorithms\Algorithms\obj\Debug\netcoreapp2.1\Algorithms.csproj.CoreCompileInputs.cache
+F:\Repos\GitHub\-Algorithms\Algorithms\Algorithms\obj\Debug\netcoreapp2.1\Algorithms.AssemblyInfoInputs.cache
+F:\Repos\GitHub\-Algorithms\Algorithms\Algorithms\obj\Debug\netcoreapp2.1\Algorithms.AssemblyInfo.cs
+F:\Repos\GitHub\-Algorithms\Algorithms\Algorithms\obj\Debug\netcoreapp2.1\Algorithms.dll
+F:\Repos\GitHub\-Algorithms\Algorithms\Algorithms\obj\Debug\netcoreapp2.1\Algorithms.pdb
